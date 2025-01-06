@@ -1,0 +1,45 @@
+{
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1736181184451
+	},
+	"usage": true,
+	"analytics-uuid": "9116c924-6a18-446f-99e9-ec3b1f2d8cf5",
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "105696235753478923674",
+		"email": "allyelvis6569@gmail.com",
+		"email_verified": true,
+		"at_hash": "D3mEruvTGyQHSXKeBueb5Q",
+		"iat": 1736181227,
+		"exp": 1736184827
+	},
+	"tokens": {
+		"expires_at": 1736184826794,
+		"access_token": "ya29.a0ARW5m74sEjpJ3vtDPVrcQIDSImN6QjfmikkFCuKR6qFBtwZU-4ubUXxmMalWJit7kdUuwkYkAO8rpEdqqabeB0vHJXE24WPTHj2QK03LRpQBfWxtdL81_zPxGtvVBlCWT1CrMOMhX1zwYC-LJ5afLmazr9wKf5CjVFvEUiHecvRUawaCgYKAfISARISFQHGX2MiF5oe8QINjwmSVenl5l7rOA0181",
+		"expires_in": 3599,
+		"refresh_token": "1//03ci0ur6NEs1sCgYIARAAGAMSNwF-L9IrZJRSv6tt51Jpudn5aovd_X3srfA0h81aVt3rR1EcPhaXn848sN2dCQrsnFu0Am9ZjiM",
+		"scope": "openid https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/firebase",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6Ijg5Y2UzNTk4YzQ3M2FmMWJkYTRiZmY5NWU2Yzg3MzY0NTAyMDZmYmEiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTA1Njk2MjM1NzUzNDc4OTIzNjc0IiwiZW1haWwiOiJhbGx5ZWx2aXM2NTY5QGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiRDNtRXJ1dlRHeVFIU1hLZUJ1ZWI1USIsImlhdCI6MTczNjE4MTIyNywiZXhwIjoxNzM2MTg0ODI3fQ.E86rlcubqysYERIBtyvh2MNFsES_FG_0Bhzt0fhDzUFS1bS1P3g8xCU5RDWpUWqDj3x2BTEMs41hRgsZZll_nZyBxZFZ97omAgf0yfY-QSl6cMa1m9ExXYSQQ7cgR_8TsQxxgClUTI1OBHqoEwNEEnW2munD4b-qoBSrKlnXOoWFVEOET9WOQ9siCTrDJbFr2nuu9Fz1vFHPRRdPNBsCoG4VOcpevHnhkX9FeYIBlIJyQ19Y67FJ7sYbps0esMV1sMQduxz-Qf1P7nFEOG4H7iiv71e-fn-RtQ_CV_U6yCb_ghKveb1i2mEjJWAUFLC0PclDLsOfcQMvBERnj4tTUA"
+	},
+	"loginScopes": [
+		"email",
+		"openid",
+		"https://www.googleapis.com/auth/cloudplatformprojects.readonly",
+		"https://www.googleapis.com/auth/firebase",
+		"https://www.googleapis.com/auth/cloud-platform"
+	],
+	"activeProjects": {
+		"/home/allyelvis6569": "ecommerce-gu2h4u"
+	},
+	"lastError": 1736182892735
+}
