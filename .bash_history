@@ -652,3 +652,8 @@ echo "Deploying Firestore Rules..."
 firebase deploy --only firestore:rules
 git config --global user.email"allyelvis6569@gmail.com"
 git config --global user.name "allyelvis"
+git add .
+git commit -m "initialize"
+git config --global user.email "allyelvis6569@gmail.com"
+git config --global user name "allyelvis"
+git config --global user.name "allyelvis"
