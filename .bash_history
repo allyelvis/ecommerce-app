@@ -1,8 +1,3 @@
-const app = initializeApp(firebaseConfig);
-export const auth = getAuth(app);
-export const db = getFirestore(app);
-EOL
-
 # Step 7: Create styles.css
 cat <<EOL > public/admin-panel/styles.css
 body {
@@ -499,3 +494,7 @@ gcloud auth configure-docker gcr.io
 docker pull     gcr.io/sic-container-repo/todo-api-postgres:latest
 docker pull     gcr.io/sic-container-repo/todo-api-postgres@sha256:da7715bb369f199b3b8a8631371264e27854aff92295d451b4e941d0ad313c69
 cd 
+git add .
+git commit -m "cloud run artifc"
+git push origin main
+npm run start
